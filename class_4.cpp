@@ -101,3 +101,5 @@ int factorial(int n)
 	}
 }
 
+/*this is sum of n numbers*/
+
